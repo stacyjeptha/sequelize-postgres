@@ -1,6 +1,6 @@
 {
   "name": "sequelize-postgres",
-  "version": "1.6.0-beta4",
+  "version": "1.6.0-beta3",
   "description": "Sequelize + PostgreSQL bindings",
   "main": "index.js",
   "scripts": {},
