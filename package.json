@@ -1,0 +1,16 @@
+{
+  "name": "sequelize-postgres",
+  "version": "1.6.0-beta4",
+  "description": "Sequelize + PostgreSQL bindings",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sdepold/sequelize-postgres.git"
+  },
+  "author": "Sascha Depold <sascha@depold.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.4.6"
+  }
+}
