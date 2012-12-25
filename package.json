@@ -12,5 +12,9 @@
   "license": "MIT",
   "engines": {
     "node": ">=0.4.6"
+  },
+  "dependencies": {
+    "sequelize": "~1.6.0-beta4",
+    "pg": "~0.10.2"
   }
 }
