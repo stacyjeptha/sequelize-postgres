@@ -1,4 +1,8 @@
+var pg = require('pg')
+
 module.exports = {
-  sequelize: require('sequelize'),
-  pg:        require('pg')
+  sequelize:  require('sequelize'),
+  pg:         pg,
+  postgres:   pg,
+  postgresql: pg
 }
