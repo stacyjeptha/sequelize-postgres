@@ -8,6 +8,6 @@ information about the project.
 
 ```js
   var sequelize = require('sequelize-postgres').sequelize
-  var pg        = require('sequelize-postgres').pg
+  var postgres  = require('sequelize-postgres').postgres
 ```
 
