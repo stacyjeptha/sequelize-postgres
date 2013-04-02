@@ -6,7 +6,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/sdepold/sequelize-postgres.git"
+    "url": "git://github.com/sequelize/sequelize-postgres.git"
   },
   "author": "Sascha Depold <sascha@depold.com>",
   "license": "MIT",
@@ -14,7 +14,7 @@
     "node": ">=0.4.6"
   },
   "dependencies": {
-    "sequelize": "~1.6.0-beta4",
+    "sequelize": "~1.6.0",
     "pg": "~0.10.2"
   }
 }
