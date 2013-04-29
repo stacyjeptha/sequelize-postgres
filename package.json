@@ -14,7 +14,7 @@
     "node": ">=0.4.6"
   },
   "dependencies": {
-    "sequelize": "~1.6.0",
+    "sequelize": "1.7.0-alpha1",
     "pg": "~0.10.2"
   }
 }
