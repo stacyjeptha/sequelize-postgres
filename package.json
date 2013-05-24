@@ -15,6 +15,6 @@
   },
   "dependencies": {
     "sequelize": "1.7.0-alpha2",
-    "pg": "~0.10.2"
+    "pg": "*"
   }
 }
